@@ -61,10 +61,10 @@ export default function LoginScreen({ onLogin }) {
                 type="tel"
                 inputMode="numeric"
                 autoComplete="tel"
-                maxLength={13}
+                maxLength={10}
                 value={phone}
                 onChange={(e) =>
-                  setPhone(e.target.value.replace(/\D/g, '').slice(0, 13))
+                  setPhone(e.target.value.replace(/\D/g, '').slice(0, 10))
                 }
                 placeholder="+91 98765 43210"
                 className="w-full rounded-xl border border-green-200 bg-white py-3 pl-11 pr-4 text-sm text-green-950 placeholder:text-gray-400 outline-none transition focus:border-green-500 focus:ring-4 focus:ring-green-100"
