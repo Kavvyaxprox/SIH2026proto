@@ -1,14 +1,14 @@
 import { useState } from 'react'
-import DashboardScreen from './components/DashboardScreen'
 import LoginScreen from './components/LoginScreen'
+import AppShell from './components/AppShell'
 
 function App() {
   const [screen, setScreen] = useState('login')
 
   return screen === 'login' ? (
-    <LoginScreen onLogin={() => setScreen('dashboard')} />
+    <LoginScreen onLogin={() => setScreen('app')} />
   ) : (
-    <DashboardScreen onLogout={() => setScreen('login')} />
+    <AppShell />
   )
 }
 

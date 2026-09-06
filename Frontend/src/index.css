@@ -1,23 +1,95 @@
 @import "tailwindcss";
 
+/*
+ * AgriScan theme tokens.
+ * Tailwind v4 exposes any `--color-*` / `--animate-*` token as a
+ * utility class, so `bg-earth-100` and `animate-scan-laser` work below.
+ */
 @theme {
-  --animate-scanline: scanline 3.2s ease-in-out infinite;
+  /* Earth tones: warm neutrals for cards, badges and text accents. */
+  --color-earth-50: #faf6ef;
+  --color-earth-100: #f0e7d8;
+  --color-earth-200: #dfd0b8;
+  --color-earth-500: #a0835c;
+  --color-earth-700: #6d5437;
+  --color-earth-900: #3f2f1d;
+
+  /* Custom animation timelines used across the app. */
+  --animate-scan-laser: scan-laser 1.6s ease-in-out infinite;
+  --animate-fade-in: fade-in 0.25s ease-out both;
+  --animate-slide-up: slide-up 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-float: float 3.2s ease-in-out infinite;
+  --animate-progress: progress 3s linear forwards;
+  --animate-pulse-soft: pulse-soft 1.2s ease-in-out infinite;
 }
 
-@keyframes scanline {
+/* Laser line sweeping top -> bottom of the scanning frame. */
+@keyframes scan-laser {
   0% {
-    top: 0%;
+    top: 4%;
     opacity: 0;
   }
-  8% {
+  12% {
     opacity: 1;
   }
-  92% {
+  50% {
+    top: 93%;
+  }
+  88% {
     opacity: 1;
   }
   100% {
-    top: 100%;
+    top: 4%;
     opacity: 0;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes progress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes pulse-soft {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.45;
   }
 }
 
@@ -31,4 +103,17 @@ body {
     "Helvetica Neue", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff;
+  color: theme(--color-green-950);
+}
+
+/* Respect users who prefer reduced motion (accessibility). */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }
