@@ -1,0 +1,34 @@
+{
+  "classes": {
+    "apple_scab": {
+      "folder": "Apple___Apple_scab"
+    },
+    "apple_healthy": {
+      "folder": "Apple___healthy"
+    },
+    "maize_leaf_blight": {
+      "folder": "Corn_(maize)___Northern_Leaf_Blight"
+    },
+    "maize_healthy": {
+      "folder": "Corn_(maize)___healthy"
+    },
+    "potato_early_blight": {
+      "folder": "Potato___Early_blight"
+    },
+    "potato_late_blight": {
+      "folder": "Potato___Late_blight"
+    },
+    "potato_healthy": {
+      "folder": "Potato___healthy"
+    },
+    "tomato_early_blight": {
+      "folder": "Tomato___Early_blight"
+    },
+    "tomato_late_blight": {
+      "folder": "Tomato___Late_blight"
+    },
+    "tomato_healthy": {
+      "folder": "Tomato___healthy"
+    }
+  }
+}

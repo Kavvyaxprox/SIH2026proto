@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "note": "Verified PlantVillage labels; Demo Sample badge shown in UI.",
+  "samples": [
+    {
+      "file": "apple_healthy.jpg",
+      "classId": "apple_healthy",
+      "crop": "Apple",
+      "disease": "Healthy"
+    },
+    {
+      "file": "apple_scab.jpg",
+      "classId": "apple_scab",
+      "crop": "Apple",
+      "disease": "Apple Scab"
+    },
+    {
+      "file": "maize_healthy.jpg",
+      "classId": "maize_healthy",
+      "crop": "Maize",
+      "disease": "Healthy"
+    },
+    {
+      "file": "maize_leaf_blight.jpg",
+      "classId": "maize_leaf_blight",
+      "crop": "Maize",
+      "disease": "Northern Leaf Blight"
+    },
+    {
+      "file": "potato_early_blight.jpg",
+      "classId": "potato_early_blight",
+      "crop": "Potato",
+      "disease": "Early Blight"
+    },
+    {
+      "file": "potato_healthy.jpg",
+      "classId": "potato_healthy",
+      "crop": "Potato",
+      "disease": "Healthy"
+    },
+    {
+      "file": "potato_late_blight.jpg",
+      "classId": "potato_late_blight",
+      "crop": "Potato",
+      "disease": "Late Blight"
+    },
+    {
+      "file": "tomato_early_blight.jpg",
+      "classId": "tomato_early_blight",
+      "crop": "Tomato",
+      "disease": "Early Blight"
+    },
+    {
+      "file": "tomato_healthy.jpg",
+      "classId": "tomato_healthy",
+      "crop": "Tomato",
+      "disease": "Healthy"
+    },
+    {
+      "file": "tomato_late_blight.jpg",
+      "classId": "tomato_late_blight",
+      "crop": "Tomato",
+      "disease": "Late Blight"
+    }
+  ]
+}

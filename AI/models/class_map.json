@@ -1,0 +1,26 @@
+{
+  "classes": [
+    "apple_healthy",
+    "apple_scab",
+    "maize_healthy",
+    "maize_leaf_blight",
+    "potato_early_blight",
+    "potato_healthy",
+    "potato_late_blight",
+    "tomato_early_blight",
+    "tomato_healthy",
+    "tomato_late_blight"
+  ],
+  "class_to_idx": {
+    "apple_healthy": 0,
+    "apple_scab": 1,
+    "maize_healthy": 2,
+    "maize_leaf_blight": 3,
+    "potato_early_blight": 4,
+    "potato_healthy": 5,
+    "potato_late_blight": 6,
+    "tomato_early_blight": 7,
+    "tomato_healthy": 8,
+    "tomato_late_blight": 9
+  }
+}

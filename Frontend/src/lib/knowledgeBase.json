@@ -1,0 +1,354 @@
+{
+  "version": "v1.0",
+  "note": "Prototype knowledge base. Chemical guidance is general label-rate information: always verify against the product label and your local agricultural extension officer before application.",
+  "entries": {
+    "apple_scab": {
+      "crop": "Apple",
+      "disease": "Apple Scab",
+      "pathogen": "Venturia inaequalis (fungus)",
+      "summary": "A fungal leaf and fruit disease common in cool, wet weather. Olive-green to dark brown velvety lesions form on leaves and fruit.",
+      "symptoms": [
+        "Olive-green velvety spots on leaf undersides that darken over time",
+        "Distorted, curled leaves with scab lesions",
+        "Rough, corky scabs on young fruit",
+        "Early defoliation in severe infections"
+      ],
+      "immediate_actions": [
+        "Rake up and destroy fallen leaves at or after harvest",
+        "Prune infected twigs showing canker",
+        "Maintain proper tree spacing for airflow"
+      ],
+      "prevention": [
+        "Choose scab-resistant apple varieties where practical",
+        "Avoid overhead irrigation that keeps leaves wet",
+        "Apply protective fungicide sprays at bud break to petal fall in high-risk seasons"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.0 g / L water",
+          "frequency": "Every 10-14 days during wet weather",
+          "note": "Protective (contact) fungicide. Applied before or at first symptoms."
+        },
+        {
+          "name": "Captan",
+          "dosage": "2.0 g / L water",
+          "frequency": "Every 10-14 days",
+          "note": "Verify local registration and pre-harvest interval."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Sulfur spray",
+          "detail": "Wettable sulfur at 2-3 g/L during early season. Do not apply when temperature exceeds 30 C."
+        }
+      ],
+      "contact_advice": "Contact your KVK or horticulture department for variety-specific spray schedules.",
+      "healthy": false
+    },
+    "apple_healthy": {
+      "crop": "Apple",
+      "disease": "Healthy",
+      "pathogen": "None detected",
+      "summary": "No disease symptoms detected. Continue standard orchard care and monitoring.",
+      "symptoms": [],
+      "immediate_actions": [
+        "Maintain regular scouting for early signs of scab or rust",
+        "Keep the orchard floor clean of fallen fruit"
+      ],
+      "prevention": [
+        "Prune for light penetration and airflow",
+        "Monitor weekly during wet seasons"
+      ],
+      "chemical_guidance": [],
+      "organic": [],
+      "contact_advice": "",
+      "healthy": true
+    },
+    "maize_leaf_blight": {
+      "crop": "Maize",
+      "disease": "Northern Leaf Blight",
+      "pathogen": "Exserohilum turcicum (fungus)",
+      "summary": "Cigar-shaped grey-green lesions that elongate along leaf veins, reducing photosynthesis and yields in humid conditions.",
+      "symptoms": [
+        "Large, cigar-shaped lesions starting on lower leaves",
+        "Grey-green then tan-brown lesions along the midrib",
+        "Lesions merging and blighting leaf area in wet weather",
+        "Reduced grain fill on severely affected plants"
+      ],
+      "immediate_actions": [
+        "Remove and destroy heavily infested lower leaves early",
+        "Increase row spacing to reduce humidity in the canopy",
+        "Avoid late-season nitrogen excess that prolongs lush growth"
+      ],
+      "prevention": [
+        "Use tolerant hybrids where locally available",
+        "Crop rotation away from maize for 2 seasons",
+        "Deep-plough maize stubble after harvest to speed decomposition"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.0-2.5 g / L water",
+          "frequency": "Every 10 days from tasselling",
+          "note": "Contact protectant; good coverage of the canopy is essential."
+        },
+        {
+          "name": "Propiconazole (25% EC)",
+          "dosage": "1.0 ml / L water",
+          "frequency": "At lesion appearance, repeat after 14 days",
+          "note": "Systemic; rotate chemistries to avoid resistance."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Microbial biocontrol",
+          "detail": "Trichoderma-based products applied to soil/seed suppress leaf blight fungi. Follow product instructions."
+        }
+      ],
+      "contact_advice": "Consult your local KVK for hybrid-specific management in high-rainfall districts.",
+      "healthy": false
+    },
+    "maize_healthy": {
+      "crop": "Maize",
+      "disease": "Healthy",
+      "pathogen": "None detected",
+      "summary": "No disease symptoms detected. Continue routine monitoring for leaf blight and stem borers.",
+      "symptoms": [],
+      "immediate_actions": [
+        "Continue weekly field scouting",
+        "Check for insect damage (stem borer) separately"
+      ],
+      "prevention": [
+        "Maintain balanced fertilisation",
+        "Remove volunteer maize plants between seasons"
+      ],
+      "chemical_guidance": [],
+      "organic": [],
+      "contact_advice": "",
+      "healthy": true
+    },
+    "potato_early_blight": {
+      "crop": "Potato",
+      "disease": "Early Blight",
+      "pathogen": "Alternaria solani (fungus)",
+      "summary": "Brown lesions with concentric dark rings ('target spots') on older leaves, favoured by warm, humid weather and nitrogen stress.",
+      "symptoms": [
+        "Irregular brown spots with concentric ring patterns on older leaves",
+        "Leaf yellowing and death from the base upward",
+        "Dark, sunken lesions on stems",
+        "Fruit/tuber infection causing dry rot at harvest"
+      ],
+      "immediate_actions": [
+        "Remove and destroy the most affected lower leaves",
+        "Improve airflow with adequate hill spacing",
+        "Correct nitrogen nutrition if crops are weak"
+      ],
+      "prevention": [
+        "Rotate away from tomato, potato and other solanaceous crops",
+        "Use certified, healthy seed tubers",
+        "Avoid overhead irrigation in the evening"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.0 g / L water",
+          "frequency": "Every 7-10 days",
+          "note": "Contact fungicide; timeliness and coverage are critical."
+        },
+        {
+          "name": "Chlorothalonil (75% WP)",
+          "dosage": "1.5-2.0 g / L water",
+          "frequency": "Every 7 days",
+          "note": "Alternate with a systemic to reduce resistance."
+        },
+        {
+          "name": "Azoxystrobin (23% SC)",
+          "dosage": "1.0 ml / L water",
+          "frequency": "Every 10-14 days",
+          "note": "Systemic; use preventatively in wet conditions, limited applications per season."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Neem oil spray",
+          "detail": "Mix 5 ml neem oil and 1 drop of mild soap per litre. Spray foliage every 5-7 days."
+        },
+        {
+          "name": "Copper-based spray",
+          "detail": "Copper oxychloride at 2-3 g/L as a protectant. Follow label withholding period."
+        }
+      ],
+      "contact_advice": "Get advice from KVK for district-specific fungicide rotation schedules.",
+      "healthy": false
+    },
+    "potato_late_blight": {
+      "crop": "Potato",
+      "disease": "Late Blight",
+      "pathogen": "Phytophthora infestans (oomycete)",
+      "summary": "A destructive, fast-spreading blight in cool, wet weather. Water-soaked lesions, white fungal growth on leaf undersides, and rapid plant death.",
+      "symptoms": [
+        "Water-soaked grey-green patches that turn brown quickly",
+        "White cottony growth around lesion edges on leaf undersides",
+        "Whole plants collapse within days in humid weather",
+        "Brown rot in tubers during storage"
+      ],
+      "immediate_actions": [
+        "Act the same day symptoms appear - late blight spreads overnight",
+        "Remove heavily infected foliage and dispose away from fields",
+        "Avoid working fields while foliage is wet"
+      ],
+      "prevention": [
+        "Plant certified disease-free seed tubers only",
+        "Apply protective fungicides before disease appears when blight weather is forecast",
+        "Destroy volunteer potato plants and cull piles"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.5 g / L water",
+          "frequency": "Every 5-7 days in active blight weather",
+          "note": "Protectant; must be on the plant before infection."
+        },
+        {
+          "name": "Metalaxyl + Mancozeb (68% WP)",
+          "dosage": "2.5 g / L water",
+          "frequency": "At first sign; 2-3 sprays max per season",
+          "note": "Systemic action for curative kick; strictly limit to avoid resistance."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Copper oxychloride",
+          "detail": "3 g/L as a protectant. Copper can suppress but not cure established blight."
+        }
+      ],
+      "contact_advice": "Report suspected late blight to your KVK immediately - it is a notifiable crop disease in many states.",
+      "healthy": false
+    },
+    "potato_healthy": {
+      "crop": "Potato",
+      "disease": "Healthy",
+      "pathogen": "None detected",
+      "summary": "No disease symptoms detected. Maintain a good blight prevention schedule during wet weather.",
+      "symptoms": [],
+      "immediate_actions": [
+        "Keep scouting, especially after cool wet spells",
+        "Ensure plants are not water-stressed"
+      ],
+      "prevention": [
+        "Stick to the local blight forecast spray calendar",
+        "Use certified seed and rotate crops"
+      ],
+      "chemical_guidance": [],
+      "organic": [],
+      "contact_advice": "",
+      "healthy": true
+    },
+    "tomato_early_blight": {
+      "crop": "Tomato",
+      "disease": "Early Blight",
+      "pathogen": "Alternaria solani (fungus)",
+      "summary": "Chlorotic lower leaves develop dark spots with concentric rings, leading to defoliation and sun-scorched fruit.",
+      "symptoms": [
+        "Dark brown spots with concentric rings on older leaves",
+        "Yellow halo around lesions",
+        "Defoliation starting at the base of the plant",
+        "Sunken leathery spots near the calyx of fruit"
+      ],
+      "immediate_actions": [
+        "Remove infected lower leaves and destroy them",
+        "Improve field ventilation and stake/train plants",
+        "Mulch soil to reduce spore splash from rain or irrigation"
+      ],
+      "prevention": [
+        "Rotate crops - avoid tomato after potato or pepper",
+        "Water at the base; keep foliage dry",
+        "Use disease-free transplants"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.0 g / L water",
+          "frequency": "Every 7-10 days",
+          "note": "Contact fungicide; alternate with a systemic."
+        },
+        {
+          "name": "Chlorothalonil (75% WP)",
+          "dosage": "1.5 g / L water",
+          "frequency": "Every 7 days",
+          "note": "Avoid applications within 3 days of harvest."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Neem oil spray",
+          "detail": "Mix 5 ml neem oil with 1 litre water plus a drop of mild soap; spray every 3-4 days."
+        },
+        {
+          "name": "Copper-soap mixture",
+          "detail": "Dissolve 2 g copper oxychloride per litre; apply early morning."
+        }
+      ],
+      "contact_advice": "Consult KVK for fungicide rotation guidance if the disease persists on multiple plants.",
+      "healthy": false
+    },
+    "tomato_late_blight": {
+      "crop": "Tomato",
+      "disease": "Late Blight",
+      "pathogen": "Phytophthora infestans (oomycete)",
+      "summary": "Rapidly spreading blight in cool wet weather. Large water-soaked lesions on leaves and stems with white mould on undersides.",
+      "symptoms": [
+        "Large irregular water-soaked patches on leaves",
+        "White mould along the lesion edge on the underside of leaves",
+        "Dark firm lesions on stems",
+        "Fruit infection with wrinkled brown patches"
+      ],
+      "immediate_actions": [
+        "Act immediately - this disease spreads extremely fast",
+        "Remove and destroy infected plants and fruit",
+        "Do not work in wet foliage"
+      ],
+      "prevention": [
+        "Spray protectant fungicides before cool wet spells",
+        "Use resistant/tolerant varieties where available",
+        "Good staking and pruning for airflow"
+      ],
+      "chemical_guidance": [
+        {
+          "name": "Mancozeb (75% WP)",
+          "dosage": "2.5 g / L water",
+          "frequency": "Every 5-7 days in wet weather",
+          "note": "Protective; coverage of lower leaf undersides is important."
+        }
+      ],
+      "organic": [
+        {
+          "name": "Copper oxychloride",
+          "detail": "3 g/L as a protectant only; not effective once lesions are visible."
+        }
+      ],
+      "contact_advice": "Contact your KVK immediately - late blight can wipe out a crop within days.",
+      "healthy": false
+    },
+    "tomato_healthy": {
+      "crop": "Tomato",
+      "disease": "Healthy",
+      "pathogen": "None detected",
+      "summary": "No disease symptoms detected. Keep up standard preventive practices during wet weather.",
+      "symptoms": [],
+      "immediate_actions": [
+        "Continue weekly scouting of lower leaves",
+        "Maintain staking and pruning"
+      ],
+      "prevention": [
+        "Water at the base of plants",
+        "Rotate crops and use disease-free seed"
+      ],
+      "chemical_guidance": [],
+      "organic": [],
+      "contact_advice": "",
+      "healthy": true
+    }
+  }
+}

@@ -2,5 +2,14 @@
   "framework": "vite",
   "installCommand": "npm install --prefix Frontend",
   "buildCommand": "npm run vercel-build --prefix Frontend",
-  "outputDirectory": "Frontend/dist"
+  "outputDirectory": "Frontend/dist",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Cross-Origin-Opener-Policy", "value": "same-origin" },
+        { "key": "Cross-Origin-Embedder-Policy", "value": "credentialless" }
+      ]
+    }
+  ]
 }

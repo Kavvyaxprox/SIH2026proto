@@ -1,8 +1,4 @@
 {
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "oxc"],
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
+  "$schema": "https://oxc-project.github.io/json-schema/oxlint-config.json",
+  "ignorePatterns": ["public/ort/**", "public/demo-samples/**", "dist/**"]
 }

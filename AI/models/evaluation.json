@@ -1,0 +1,213 @@
+{
+  "classes": [
+    "apple_healthy",
+    "apple_scab",
+    "maize_healthy",
+    "maize_leaf_blight",
+    "potato_early_blight",
+    "potato_healthy",
+    "potato_late_blight",
+    "tomato_early_blight",
+    "tomato_healthy",
+    "tomato_late_blight"
+  ],
+  "samples": 92,
+  "test_accuracy": 0.9348,
+  "macro_precision": 0.9405,
+  "macro_recall": 0.9345,
+  "macro_f1": 0.9351,
+  "per_class": [
+    {
+      "class_id": "apple_healthy",
+      "samples": 9,
+      "precision": 0.9,
+      "recall": 1.0,
+      "f1": 0.9474
+    },
+    {
+      "class_id": "apple_scab",
+      "samples": 9,
+      "precision": 1.0,
+      "recall": 0.8889,
+      "f1": 0.9412
+    },
+    {
+      "class_id": "maize_healthy",
+      "samples": 9,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "class_id": "maize_leaf_blight",
+      "samples": 9,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "class_id": "potato_early_blight",
+      "samples": 9,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "class_id": "potato_healthy",
+      "samples": 10,
+      "precision": 0.9091,
+      "recall": 1.0,
+      "f1": 0.9524
+    },
+    {
+      "class_id": "potato_late_blight",
+      "samples": 9,
+      "precision": 0.8889,
+      "recall": 0.8889,
+      "f1": 0.8889
+    },
+    {
+      "class_id": "tomato_early_blight",
+      "samples": 10,
+      "precision": 0.8182,
+      "recall": 0.9,
+      "f1": 0.8571
+    },
+    {
+      "class_id": "tomato_healthy",
+      "samples": 9,
+      "precision": 0.8889,
+      "recall": 0.8889,
+      "f1": 0.8889
+    },
+    {
+      "class_id": "tomato_late_blight",
+      "samples": 9,
+      "precision": 1.0,
+      "recall": 0.7778,
+      "f1": 0.875
+    }
+  ],
+  "confusion_matrix": [
+    [
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      8,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      8,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      8,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      7
+    ]
+  ]
+}

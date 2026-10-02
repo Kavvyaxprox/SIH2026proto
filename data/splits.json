@@ -1,0 +1,2514 @@
+{
+  "train": {
+    "classes": [
+      "apple_healthy",
+      "apple_scab",
+      "maize_healthy",
+      "maize_leaf_blight",
+      "potato_early_blight",
+      "potato_healthy",
+      "potato_late_blight",
+      "tomato_early_blight",
+      "tomato_healthy",
+      "tomato_late_blight"
+    ],
+    "rows": [
+      [
+        "maize_healthy",
+        "83bd7012-4dff-4fe3-862d-c4e59ce02216___R.S_HL 8062 copy 3.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "0fbc786c-62a7-44f3-8db8-2649809bf1aa___RS_Erly.B 9514.JPG"
+      ],
+      [
+        "apple_healthy",
+        "223dbe3b-9f96-473b-a6a6-ea354777ae1f___RS_HL 8040.JPG"
+      ],
+      [
+        "potato_healthy",
+        "36bdc44c-96a4-40bb-86f7-63a91d706e96___RS_HL 4203.JPG"
+      ],
+      [
+        "apple_scab",
+        "f2391b26-b388-4ffc-b735-9b8d859d1ffa___FREC_Scab 3312.JPG"
+      ],
+      [
+        "apple_healthy",
+        "63f2f961-ac3f-4a2d-9fc1-6987e8da97cc___RS_HL 7447.JPG"
+      ],
+      [
+        "maize_healthy",
+        "0b703646-9307-401b-bd31-ace32353d467___R.S_HL 5499 copy 2.jpg"
+      ],
+      [
+        "tomato_late_blight",
+        "1ea54b98-1f87-4da7-9bc2-f6460f18b376___RS_Late.B 6713.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "1757f48b-435b-4c4a-9de6-47b959ed1e67___RS_LB 5295.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "4ef8e489-cafb-4d59-9fc9-00f8087f0cac___RS_NLB 4172.JPG"
+      ],
+      [
+        "apple_healthy",
+        "4cd8dfb9-2afe-425f-a110-39882ded3802___RS_HL 5799.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "357bfc61-bb46-4e77-b9eb-eafdd3af7f6f___RS_LB 3082.JPG"
+      ],
+      [
+        "potato_healthy",
+        "2e0b8b4b-e900-408b-b760-730690bbd382___RS_HL 1901.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "3e6c73ad-cfcb-4614-b927-150c2c642c9e___RS_HL 0074.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "04141939-3a8c-47b2-a582-e8371ccc120f___RS_HL 0275.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d20fef22-7016-4115-9930-a66b32c718c6___RS_LB 4417.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "3b98ec11-30cb-47c0-89c0-05677d9f0b9d___RS_NLB 3877.JPG"
+      ],
+      [
+        "maize_healthy",
+        "b5069c6e-a377-46a8-a53c-1275896c3036___R.S_HL 8235 copy 2.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "7763d482-8290-46f4-83aa-edb87ae15297___RS_Erly.B 7766.JPG"
+      ],
+      [
+        "apple_scab",
+        "43f68711-decd-4831-bf5c-99fa40abe339___FREC_Scab 3413.JPG"
+      ],
+      [
+        "apple_healthy",
+        "4941b5f6-7a47-4207-bf9c-adfb43d46e26___RS_HL 6262.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "58adb74c-a1b3-4b9d-95b7-f0721c499388___RS_LB 4326.JPG"
+      ],
+      [
+        "maize_healthy",
+        "3cf0f532-b296-43d4-a280-d4f665913820___R.S_HL 8305 copy 2.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "2bad1ec2-1bd5-431c-919d-31247d9f32e2___RS_NLB 4180.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "18568211-18d7-453f-84a4-d22e2088ec33___RS_Late.B 5239.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "4a8adf2a-73d4-4555-8621-1292de40b194___RS_NLB 3547.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "5e8203e5-b699-4d5a-acb5-08a5f06ee984___RS_LB 5291.JPG"
+      ],
+      [
+        "potato_healthy",
+        "0b3e5032-8ae8-49ac-8157-a1cac3df01dd___RS_HL 1817.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "57cc95ac-1fae-4959-ba16-d65c3db753d1___RS_HL 0312.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "3b8446bd-30df-4ff8-87e3-bcddae3b4e7a___RS_NLB 4108.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "845735fd-cca2-4d7b-ace8-292ca8f5f940___GHLB2 Leaf 8771.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d66ee513-26cc-4676-8aeb-9902e0969d2b___RS_LB 3999.JPG"
+      ],
+      [
+        "potato_healthy",
+        "b61b9d33-59ea-41b0-a554-c382eb6128c5___RS_HL 1919.JPG"
+      ],
+      [
+        "potato_healthy",
+        "46b2555a-c0a6-48c2-af13-0816e147e4de___RS_HL 1943.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "0da23640-656e-4f03-be14-4b4b36811861___GHLB2 Leaf 9072.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "e490f736-a52f-434f-ada7-3bb255d99635___RS_Early.B 7417.JPG"
+      ],
+      [
+        "apple_scab",
+        "2d4c8a12-a34c-4c8b-b357-271d87532ece___FREC_Scab 3090.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "467da834-4482-4233-90d1-03bc4dc60966___RS_Late.B 5136.JPG"
+      ],
+      [
+        "potato_healthy",
+        "45bc0b37-ca59-4a89-8531-705af42a6fd5___RS_HL 1946.JPG"
+      ],
+      [
+        "apple_scab",
+        "f3303560-12ce-4e37-b62c-bfb5aad8aa0d___FREC_Scab 3332.JPG"
+      ],
+      [
+        "potato_healthy",
+        "f30983c0-6e20-43cc-8672-4622ca34c830___RS_HL 1949.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "f7438ce7-c12a-40df-83a1-1ab0cde13bb0___RS_LB 3847.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "42ee69ea-4c2d-4e65-9c66-e3154dd08375___RS_Erly.B 8428.JPG"
+      ],
+      [
+        "apple_scab",
+        "44dcf367-d162-407e-8ea8-e363ab8ff5c4___FREC_Scab 3282.JPG"
+      ],
+      [
+        "maize_healthy",
+        "5756c0d0-91eb-425a-90cb-cc6364d64fd4___R.S_HL 8046 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "740f12a2-c86a-4bed-93a0-8ee39297eea4___R.S_HL 5531 copy 2.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "87b7f08f-2ea2-4fce-bd6a-7aeee641652d___RS_Erly.B 8413.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "80a20af8-9759-4c07-8d0c-d48edc9925c6___RS_LB 5289.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "0e4a16ba-4a67-4d0d-8c54-79108e3ddae2___RS_NLB 4165.JPG"
+      ],
+      [
+        "apple_healthy",
+        "30fb7843-8e70-407e-b361-aa54a7473c32___RS_HL 6143.JPG"
+      ],
+      [
+        "maize_healthy",
+        "38b16a51-d4cf-4070-b973-47ec6a367d9f___R.S_HL 0653 copy 2.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "a1d275d1-5405-4829-9328-4225ffe69506___RS_Erly.B 7515.JPG"
+      ],
+      [
+        "maize_healthy",
+        "4a6aa530-32c7-49fe-a18b-a069bc49073d___R.S_HL 8304 copy.jpg"
+      ],
+      [
+        "potato_late_blight",
+        "d38d9e28-89a0-4650-8a2d-dc5e6744b3b9___RS_LB 5204.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "8485290f-ef3b-4011-8ff1-02060013a722___RS_Erly.B 7703.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "d9d14fdf-8f10-4023-8caf-c6ed6fd77b0f___RS_NLB 4003.JPG"
+      ],
+      [
+        "apple_scab",
+        "268a2ad1-d649-4ec0-add3-61cc8f54f479___FREC_Scab 3235.JPG"
+      ],
+      [
+        "apple_scab",
+        "86054e9e-26b4-42b5-b192-58ddee7b0c34___FREC_Scab 3011.JPG"
+      ],
+      [
+        "maize_healthy",
+        "95afbc6c-3e3a-4d1f-8933-d7cd73f1e8a1___R.S_HL 0612 copy.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "1d31b822-7933-4801-a18c-657b8af377d6___RS_HL 0636.JPG"
+      ],
+      [
+        "apple_healthy",
+        "32b6be5f-6482-4bd2-876d-c2a518afed09___RS_HL 6163.JPG"
+      ],
+      [
+        "potato_healthy",
+        "00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864.JPG"
+      ],
+      [
+        "potato_healthy",
+        "1ae826e2-5148-47bd-a44c-711ec9cc9c75___RS_HL 1954.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "197fa869-c124-436e-b3cd-bced95f52a8e___RS_Erly.B 7834.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "8f9b3d86-42dd-4932-b638-8376529afcaa___RS_Erly.B 9575.JPG"
+      ],
+      [
+        "apple_healthy",
+        "30995ef5-ad2d-4949-b0e0-f98b074b4a96___RS_HL 7378.JPG"
+      ],
+      [
+        "maize_healthy",
+        "7c09e620-aa1a-4516-b97c-fafecba84622___R.S_HL 0637 copy.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "d934ba74-0149-457f-b5e7-c11d595f285e___RS_Erly.B 7365.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "50aebd46-fc21-4954-b2d7-729b02a849b1___GH_HL Leaf 194.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "9ce41fa1-3d14-4b66-9a13-da488a8727d7___RS_NLB 3997.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "b03529cf-21fd-4c94-a948-461a8d17e01c___RS_LB 4828.JPG"
+      ],
+      [
+        "apple_scab",
+        "a72a9033-d2b9-4c64-93bc-7e5a1a0ea4ae___FREC_Scab 3284.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "437640c6-1680-4d1b-aa0b-c1dd52aa13a5___RS_LB 4926.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "fa61b2e4-413c-4503-a2a2-cff2d8a11351___RS_Early.B 7370.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "2b2f19f2-757c-47a0-a519-4cec0095a840___RS_NLB 3708.JPG"
+      ],
+      [
+        "potato_healthy",
+        "d1752ed4-a0a7-4075-917d-205c0e785dcf___RS_HL 1911.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "65e02ee3-6760-4416-b1a5-9556bea43d0b___RS_Erly.B 7772.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "eb3708a1-b2b4-4e03-b8ae-59c14ef89e67___RS_NLB 3818 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "a10b278a-fcce-4cf4-aada-254e89050be5___RS_Early.B 7524.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "07d7ad48-0740-4cf5-9a26-91fd9296d6b3___RS_Late.B 5464.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "5c1c57f6-6aff-4bba-892e-43ff02311c3f___RS_LB 4046.JPG"
+      ],
+      [
+        "apple_healthy",
+        "925d0f0f-08ae-4f20-a528-0f78bf27b9e7___RS_HL 8032.JPG"
+      ],
+      [
+        "maize_healthy",
+        "2854f11d-f6ce-4c3e-8a9d-026ae2cc9747___R.S_HL 8179 copy 2.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "028a7e62-b520-42fe-8607-ee4d4bc6764d___RS_NLB 3844.JPG"
+      ],
+      [
+        "apple_healthy",
+        "7569e8c8-96c8-4d87-8bcd-139566dd4d87___RS_HL 5763.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0bff693d-bab0-4438-9dac-e4503e5e83bb___RS_HL 5741.JPG"
+      ],
+      [
+        "apple_scab",
+        "80ddd81b-9c75-4711-8012-7ee68af378db___FREC_Scab 3458.JPG"
+      ],
+      [
+        "apple_healthy",
+        "3bfeaca2-de0b-4a2c-adc0-06adc87a1386___RS_HL 7425.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "45ecd7ac-7db9-49bf-b34d-ccd2e83123b0___RS_Early.B 6883.JPG"
+      ],
+      [
+        "potato_healthy",
+        "c548fe0e-21c2-4241-b806-1e438a1213bd___RS_HL 1770.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "1a939012-5b9b-4dfa-aeda-ba97ec857903___GH_HL Leaf 278.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "c1438787-efba-4893-9690-0e14bd3c54db___RS_NLB 3480.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "6868de8b-1a90-448d-93e8-265f2fa401dd___RS_NLB 3929.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "91a223de-d549-43cd-8ffe-81b650b28edd___RS_HL 0028.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "f8de1c8d-67a0-4825-9ad6-e15809ff909c___RS_Early.B 7348.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "f188144b-d52c-40c5-a06f-07d5796f9ab0___RS_Erly.B 9553.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "05fab431-cc13-4d6d-b4e1-912e0059c7c1___RS_Erly.B 8349.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "c101232e-6487-495c-ad3a-27cd1e5fb2b9___RS_LB 2573.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "381203e7-7030-4782-9e47-24d50969931a___RS_HL 9759.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "bb3d6df0-683e-4f04-afaf-277a36edad6c___RS_Early.B 9070.JPG"
+      ],
+      [
+        "maize_healthy",
+        "44f2a3c4-6e69-40d8-9aec-ba79a37a767d___R.S_HL 5529 copy.jpg"
+      ],
+      [
+        "potato_healthy",
+        "8665efd2-fa3d-45f8-b1c0-746c99fb7d1e___RS_HL 1924.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "4463e5e9-8afc-4dfd-9317-3013a538f2c8___GH_HL Leaf 308.JPG"
+      ],
+      [
+        "apple_healthy",
+        "54ef2bb4-12a7-447e-a980-32c74bd26c1e___RS_HL 7459.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "f24a6c41-64fd-42c1-a0ea-501441fcbf64___RS_NLB 3805 copy 2.jpg"
+      ],
+      [
+        "potato_healthy",
+        "170f1f57-0fd4-421f-9c82-3b1804be63ad___RS_HL 1771.JPG"
+      ],
+      [
+        "apple_healthy",
+        "68bec77e-3c62-4ea5-85e4-fa29068ebb34___RS_HL 7340.JPG"
+      ],
+      [
+        "apple_scab",
+        "63cf5c0e-0a65-4261-9034-ba75466ee918___FREC_Scab 3385.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "506f85e7-6f27-40e2-bb9c-5ddb6f35a787___RS_Erly.B 8406.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "f069744b-375b-4fee-b1f9-23963195e936___RS_Early.B 6837.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "ab808dff-e0fc-42d0-ad9a-c4cb7f69e59b___RS_Early.B 9210.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "a69b634c-1bb1-4098-9da0-8393f9b8d6e1___RS_LB 5120.JPG"
+      ],
+      [
+        "apple_healthy",
+        "57ef10ab-f1fe-4b14-ad46-91b4255f2e49___RS_HL 5796.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5c25c249-5433-47b9-be00-6cd2d31f48c1___GHLB2 Leaf 8753.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "2a7e1698-9747-40e6-994e-5d4dc1d2b239___RS_HL 0279.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "283134dd-8b32-447e-8e82-547d3b69f4d4___RS_Early.B 7494.JPG"
+      ],
+      [
+        "apple_healthy",
+        "957b622a-4f30-459f-9dbb-97c3f4bde0d3___RS_HL 6150.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "6033f0b2-48e7-411c-a39b-86297f412c19___RS_LB 4020.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "90c69e4c-c526-4f72-b0b0-4127fc6acb0a___RS_Erly.B 7782.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "1e095cdc-6a71-4ae4-9709-be97b5668454___GHLB2 Leaf 8845.JPG"
+      ],
+      [
+        "apple_healthy",
+        "404ef08f-0f34-4530-bc4b-ce356b3c2da1___RS_HL 7484.JPG"
+      ],
+      [
+        "apple_healthy",
+        "68fdb88e-755a-47c3-8e60-600533b8a53c___RS_HL 7780.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "1f80f111-6a3e-4dfc-8456-0f3e9a19ae10___RS_Early.B 6879.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "6b2ebc67-09f1-4d57-bdb4-65f5f5a6c7a2___RS_NLB 3876.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "833c373e-d3fc-4d1e-86e7-8bd11d41a33e___RS_Early.B 7509.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "cceeec9d-e0d9-4512-a1f0-faa5dc6bbf40___RS_Early.B 8381.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "f917c191-cca4-4a78-8238-a40b586f9058___RS_Early.B 7945.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "e63371a7-2fb1-4446-9fb2-6d679485d2b0___RS_Erly.B 8415.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "3d89871d-557a-414e-b726-8f4ba18d30e4___GHLB2 Leaf 8922.JPG"
+      ],
+      [
+        "apple_scab",
+        "b3b884bb-55ff-42dd-81d6-d8260acd4ad5___FREC_Scab 3281.JPG"
+      ],
+      [
+        "maize_healthy",
+        "af57ac04-46ad-4655-81f3-4fc4a01d1c1a___R.S_HL 8238 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "00031d74-076e-4aef-b040-e068cd3576eb___R.S_HL 8315 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "1d81ce56-55bc-4037-8d1f-6d1ea0f94698___R.S_HL 5530 copy 2.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "2b8306e4-7898-4f27-b659-b0061c4c3832___RS_HL 0440.JPG"
+      ],
+      [
+        "apple_scab",
+        "6823f5d3-b27b-4a34-a417-5fc5bd99f9d7___FREC_Scab 2975.JPG"
+      ],
+      [
+        "maize_healthy",
+        "85f2fc5b-e087-4614-9e22-1c264bcc6584___R.S_HL 7981 copy 2.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "9299f3e8-15ee-4cf2-997a-058bb19900a5___RS_HL 9781.JPG"
+      ],
+      [
+        "apple_scab",
+        "98259104-a5dd-4751-88f2-27923a2317a3___FREC_Scab 3419.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "247e79d6-1874-4ce4-a777-a03a4f94edbf___GH_HL Leaf 211.1.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "7e1b19fc-c79d-4898-9e69-9843dd8aa1b6___RS_LB 3137.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "49ef0291-35d7-4306-84f2-1351fd8d1349___RS_NLB 3907.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "a3bf27ee-b4ec-4f72-a25b-9d47b4cd100d___RS_LB 2889.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "2ec18b22-c51c-456b-bf94-d5f3d282fb6c___RS_HL 0179.JPG"
+      ],
+      [
+        "apple_healthy",
+        "77ce37f4-d184-4798-87e9-57f7ca0d9536___RS_HL 6017.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "7cb45f15-0315-4cb4-88fa-c0bcef1a5a73___RS_NLB 0777.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "136d79a3-4eea-4415-9f3e-0ccb61d7aeef___RS_Late.B 5216.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0b6ec66f-fe63-4eef-8068-cf8ed0baf0de___RS_HL 7482.JPG"
+      ],
+      [
+        "apple_healthy",
+        "7a5ad785-c05e-49bd-b1e0-4d9405bedfb5___RS_HL 7804.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "5e1b2b72-fe1d-4bf2-a5ed-b3a013ffabe9___RS_NLB 3696.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "57e8eac3-bf54-463c-a3d7-6ef04ae0a8dc___GHLB2 Leaf 124.3.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "758e48c7-b766-4cca-bad2-41aa729a1d86___RS_NLB 4094 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "8ee79bf1-78d0-4c93-b42c-301d54e64f41___RS_Early.B 8388.JPG"
+      ],
+      [
+        "potato_healthy",
+        "7948ada9-eabc-4cb7-a579-b73e938eb716___RS_HL 4185.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "2b6c6705-59ce-4afe-8ad1-62a367ea10e0___RS_HL 9994.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B 8389.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "4241f3aa-06c9-433a-91ef-97061a03dfae___RS_Late.B 4985.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "c9bff7de-c589-4ed2-92fe-cd9ca2a1df16___RS_Early.B 7846.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "1f38b254-2338-4e4a-b772-2a8e60ca8bc0___GHLB2 Leaf 121.3.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "26480c44-e0f2-4ab7-a6a9-919d532ecfd5___RS_Late.B 5037.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "00c5c908-fc25-4710-a109-db143da23112___RS_Erly.B 7778.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "815516f8-6fb1-4f92-bdff-63349e5ee83f___RS_LB 3237.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "27dcd39d-4a04-472c-ab97-84f2d57b6245___GHLB2 Leaf 83.JPG"
+      ],
+      [
+        "apple_scab",
+        "b006c4b8-5f33-4794-91bd-7aaa430e6ceb___FREC_Scab 3498.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5ba6fbc5-a1de-4600-b0aa-9d8b8c222183___RS_Late.B 6181.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "8f92a1b1-c99e-48b4-8cd2-d0bd09bc6a6b___RS_Erly.B 9479.JPG"
+      ],
+      [
+        "apple_healthy",
+        "558de0a1-89a7-4fa4-8814-bb1d8a845bfd___RS_HL 5779.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "b99ba68b-4608-4335-a292-b4249d83762d___RS_Early.B 9096.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "4c27ed2d-96c2-4f8f-ac68-d699bc665cec___GHLB2 Leaf 8954.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "b8313909-4b3a-4d5e-9d9b-616e5749bf3d___RS_NLB 4086.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "19f3e2cd-2900-4043-bb15-31a0098d26b9___RS_Late.B 5197.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "6e93da35-363f-42f4-af65-e6eeb1217058___GHLB2 Leaf 8780.JPG"
+      ],
+      [
+        "apple_scab",
+        "e12cb6bc-9831-4a22-ba1f-95d3e7c1c62a___FREC_Scab 3040.JPG"
+      ],
+      [
+        "maize_healthy",
+        "1d33787c-1186-4728-8e21-6b142c44f767___R.S_HL 0606 copy.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "6c3feee9-23a8-46c4-8ded-5b0ef2e49ff5___RS_Erly.B 9370.JPG"
+      ],
+      [
+        "potato_healthy",
+        "0be9d721-82f5-42c3-b535-7494afe01dbe___RS_HL 1814.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "08194ca3-f0b2-4aaa-8df8-5ec5ddc6696a___RS_Early.B 8151.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "3069555f-45e9-4208-bc5e-015ce47e34e2___RS_Erly.B 7663.JPG"
+      ],
+      [
+        "apple_scab",
+        "e8f5c962-6f40-443e-9913-5a43b5f2ef07___FREC_Scab 3191.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "09e2fe63-c535-4986-a697-ed275752dc75___GHLB2 Leaf 9030.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "b4c32f6a-4be5-463d-9616-48f4d999a310___RS_NLB 3693.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "eaf93f13-37be-489a-9405-b7602bf59f8a___RS_NLB 3963 copy.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "815fb4d0-7902-45a2-a7c7-2ee400a2e25a___RS_Erly.B 7646.JPG"
+      ],
+      [
+        "maize_healthy",
+        "be5032bc-eb0c-4c05-9f3b-18204a7ba055___R.S_HL 7901 copy 2.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "25080b1c-6c0f-4b11-bb31-b5cfb2429395___GH_HL Leaf 238.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "e08c2b56-3a54-4fcc-b814-85c55020278b___RS_LB 3991.JPG"
+      ],
+      [
+        "apple_scab",
+        "3523d2d8-0da9-4b83-b09d-21bd96860a3d___FREC_Scab 3499.JPG"
+      ],
+      [
+        "potato_healthy",
+        "1b434c52-7be4-40c4-90d5-13220f1a3eba___RS_HL 5418.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5c0dc87a-f671-4085-93c5-1454ee859caf___RS_Late.B 6271.JPG"
+      ],
+      [
+        "potato_healthy",
+        "3f369e63-81eb-4194-a145-df9ed91abc5d___RS_HL 1745.JPG"
+      ],
+      [
+        "apple_scab",
+        "201d8b27-5a38-43e5-8065-f7fe039ad781___FREC_Scab 3058.JPG"
+      ],
+      [
+        "apple_scab",
+        "be10c6a0-b99b-4c91-b78f-141a12beb70c___FREC_Scab 3106.JPG"
+      ],
+      [
+        "potato_healthy",
+        "03da9931-e514-4cc7-b04a-8f474a133ce5___RS_HL 1830.JPG"
+      ],
+      [
+        "apple_healthy",
+        "2a986e85-7e83-443a-871e-c590d5a25845___RS_HL 6000.JPG"
+      ],
+      [
+        "apple_scab",
+        "6344cfa8-2c26-4498-b366-817d56285212___FREC_Scab 2964.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "c7005da5-2322-44e9-aceb-c6abe348f98c___RS_Erly.B 6490.JPG"
+      ],
+      [
+        "potato_healthy",
+        "bb04f738-1848-4dda-8834-384a48b335cd___RS_HL 1765.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "011aa278-a39e-40b0-b6e4-2e2f835889f0___RS_Erly.B 8251.JPG"
+      ],
+      [
+        "maize_healthy",
+        "d47b58e9-1131-425b-a1da-1d607caef89e___R.S_HL 8014 copy.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "cd2d8a7b-2389-4a2c-8647-b986092fa506___RS_Erly.B 8377.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "43f6d6f0-be8e-4120-8c86-fad3bcfd5c03___RS_HL 0180.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "6456344c-0dca-4ea8-8ad9-7f2809182e73___RS_HL 9832.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "354a2aba-3f4a-4fc4-9598-cdbe291ed167___RS_Late.B 7098.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "08392b44-ecc6-4f38-8566-361b552cfe21___RS_Early.B 7393.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "042d59c2-2fd8-45c2-91bb-c0a05dd07f30___RS_HL 0257.JPG"
+      ],
+      [
+        "maize_healthy",
+        "15bd6d09-98af-40f4-b098-77ec403911d4___R.S_HL 7926 copy.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "6728afe3-9ab4-4235-b7e3-5b9ee80b6675___RS_NLB 3605.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "3fcbbb8e-c7dc-4921-b8b6-bc118b877a82___RS_Late.B 5059.JPG"
+      ],
+      [
+        "potato_healthy",
+        "6f4b9acd-f34d-4771-a6bc-2001de2dd1d3___RS_HL 1898.JPG"
+      ],
+      [
+        "maize_healthy",
+        "028ed539-32f5-4540-a6af-466179837de9___R.S_HL 8212 copy.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "ebb837be-867e-417a-8a0a-04fd3f0570ba___RS_NLB 4087.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "413f7280-43ce-4f09-983c-8266588a6e67___RS_Late.B 7088.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d3cbf715-a2a3-4024-ac5d-c6ae21a77720___RS_LB 2735.JPG"
+      ],
+      [
+        "apple_scab",
+        "14c623e5-051c-42f6-9e4f-f7a93e6a723c___FREC_Scab 2965.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "e803b217-d9a9-4b0d-9ea1-679145625159___RS_Erly.B 9571.JPG"
+      ],
+      [
+        "maize_healthy",
+        "2012c62b-11b6-4cc4-9483-adebb2f30f81___R.S_HL 8326 copy.jpg"
+      ],
+      [
+        "apple_scab",
+        "da09f1db-51a0-4142-855a-7783a3f92114___FREC_Scab 2978.JPG"
+      ],
+      [
+        "apple_scab",
+        "e3509da1-332c-4e43-977a-c57978ff6a38___FREC_Scab 3219.JPG"
+      ],
+      [
+        "apple_healthy",
+        "30fb851f-052b-4b63-bc29-6d824a764fd5___RS_HL 5916.JPG"
+      ],
+      [
+        "apple_healthy",
+        "28682886-ee9f-4698-854f-8f196c01b67a___RS_HL 6101.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "90d47c2a-c84e-498c-b30d-f368e75611a7___RS_Early.B 7778.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "e4739018-9e7b-4251-917f-c8502e8b5e86___RS_Erly.B 9443.JPG"
+      ],
+      [
+        "potato_healthy",
+        "04481ca2-f94c-457e-b785-1ac05800b7ec___RS_HL 1930.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "8c01f338-2648-4bcf-99cb-853978b39014___RS_Early.B 6742.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "33551627-5824-42b9-9547-4df44590fee1___RS_LB 4848.JPG"
+      ],
+      [
+        "maize_healthy",
+        "0e056ce8-3e28-4a07-bae2-33c9e96d1ada___R.S_HL 0652 copy 2.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "26d2af6a-f52e-457c-8006-fa106ad39fbe___RS_Early.B 8586.JPG"
+      ],
+      [
+        "potato_healthy",
+        "2ccb9ee9-faac-4d32-9af5-29497fa2e028___RS_HL 1837.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "38fa4c3b-0541-4d14-80e7-84a1153b9e5f___RS_LB 4713.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "4187b29a-6f70-4d07-b88c-73f6f60dcb26___RS_HL 0343.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "053c5330-129d-4515-84da-82a701710723___RS_LB 4576.JPG"
+      ],
+      [
+        "maize_healthy",
+        "8700c11f-8e1b-4107-8554-00fa3e279805___R.S_HL 7974 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "07baabd8-e118-47dd-9d8d-132d4347836a___RS_Early.B 8555.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "ede8e8be-6d71-466e-918e-44afa1403e30___RS_LB 5455.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d78c58b2-c9d1-43f2-8b18-4455855c0f1f___RS_LB 3288.JPG"
+      ],
+      [
+        "apple_scab",
+        "de6e3dd8-b2b8-4bce-aa4f-83cc514f2007___FREC_Scab 3511.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "726a5ae7-e33b-4854-a872-71318ec3a493___RS_Late.B 5538.JPG"
+      ],
+      [
+        "apple_healthy",
+        "7ea27d6d-f7a0-44b3-b6a2-f24455deb48b___RS_HL 7589.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "9001b18c-b659-4c56-9dfb-0d0bf64a7b4a___RS_LB 4987.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "3bc6d2f7-c1ed-4e66-b3de-277aadac6785___GHLB2 Leaf 163.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "8cc11f24-0b79-4eda-8a09-9c776e0a9c1e___RS_HL 9728.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "449c9233-a3bb-4743-874b-f5d092d652b9___GHLB2 Leaf 8975.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "6fa01a78-0d8d-4ecf-b90f-4dbc2e89f2d9___RS_HL 0220.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "39f11cfa-d3a8-4845-9cc8-8ffa2f707d66___RS_Late.B 6119.JPG"
+      ],
+      [
+        "apple_scab",
+        "cb36375a-3a30-4d01-8764-358eb6300f16___FREC_Scab 3378.JPG"
+      ],
+      [
+        "maize_healthy",
+        "c671c535-9c69-4935-9cc8-0f187b4df44e___R.S_HL 8045 copy 2.jpg"
+      ],
+      [
+        "apple_scab",
+        "9c04ca1c-e5f5-4a03-8205-544c1475a18c___FREC_Scab 3502.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "61da9830-ebfd-483a-88dd-a66fcff4c457___RS_Early.B 7817.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "c6842cfb-6996-4a51-bc0a-7e2f89a903f0___RS_LB 3911.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "cba4be0b-2554-4a9e-8dd0-94cbb2467388___RS_LB 3335.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "fb9dc049-ec76-4502-9a11-13fb62a26ed4___RS_LB 3916.JPG"
+      ],
+      [
+        "apple_scab",
+        "f27fd3ff-a3b7-486a-883c-f91488883555___FREC_Scab 3158.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "6cd7bfa5-f336-4227-b8cf-3461dedc3b43___RS_Erly.B 7346.JPG"
+      ],
+      [
+        "potato_healthy",
+        "31a09d39-6791-4ecb-8f44-af2ed85dbd33___RS_HL 1970.JPG"
+      ],
+      [
+        "potato_healthy",
+        "d340704d-cc00-4068-bb8a-ae70840b7bfa___RS_HL 1773.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "3be50742-0fe9-404a-809e-9597793748a8___GH_HL Leaf 191.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "fe856320-407c-4390-9960-a6a539371182___RS_Erly.B 7624.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "bbd73cdc-a2e5-4740-9a66-7e59d0416f25___RS_Erly.B 7502.JPG"
+      ],
+      [
+        "potato_healthy",
+        "aa04db6d-645f-4e8a-88dc-c9f9396f0800___RS_HL 1975.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "71867583-027b-4304-8854-7b88efaf280b___RS_HL 9920.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "0d98a9eb-18e7-47e7-9010-196189bae113___RS_Late.B 5047.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "25281e43-2651-423f-8e7e-d354185ccd28___RS_Erly.B 7809.JPG"
+      ],
+      [
+        "apple_scab",
+        "10072248-60e2-4190-b4df-14e8ab61008c___FREC_Scab 3445.JPG"
+      ],
+      [
+        "maize_healthy",
+        "854c7bc4-5439-432a-8131-4e37bcb660b3___R.S_HL 7964 copy.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "839ba99e-e297-43b4-9067-69b74ab61ab7___RS_NLB 4063.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "72588a71-5b19-4867-a1d4-1a3addca8ab4___RS_NLB 3553 copy 2.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "9ae93bcc-5cfb-4407-a711-de800fb2853a___GH_HL Leaf 519.4.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "9fcb89e0-c94e-427f-930b-73b4d12b8690___RS_Erly.B 9495.JPG"
+      ],
+      [
+        "potato_healthy",
+        "882798ca-67c3-45a3-86cf-4aed69388145___RS_HL 1750.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "6c9a344f-a84c-4b4f-8b0b-498fb9d39e62___RS_NLB 3926.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "aceeb511-1332-4d25-b9fe-64d53445396a___RS_LB 4837.JPG"
+      ],
+      [
+        "maize_healthy",
+        "50e026e1-cee6-4382-9664-5cd5be377e91___R.S_HL 8314 copy.jpg"
+      ],
+      [
+        "potato_healthy",
+        "9d7d1bb9-1b10-4a8f-a961-e404b9d5acf8___RS_HL 1960.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "c9ff37ca-a310-49ad-8978-0913b3c55f58___RS_Erly.B 7714.JPG"
+      ],
+      [
+        "potato_healthy",
+        "dca8ac5c-b925-435a-a5e9-da09fa8938a1___RS_HL 4182.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "51bc94fe-ba23-4776-a9ec-727e55015acb___RS_Early.B 8267.JPG"
+      ],
+      [
+        "potato_healthy",
+        "e693354a-053c-4093-8642-cc8f5f9eb2cc___RS_HL 1746.JPG"
+      ],
+      [
+        "apple_scab",
+        "1f6abf22-93fa-48f0-a509-cc3e210f75f0___FREC_Scab 3172.JPG"
+      ],
+      [
+        "potato_healthy",
+        "56ae1281-5ee5-4f2a-8678-c2e4491878c6___RS_HL 1869.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "8039671d-c264-49aa-bfbc-81fabe24b007___RS_Erly.B 9397.JPG"
+      ],
+      [
+        "apple_healthy",
+        "8201f21f-cd54-4ff6-9fc7-f3e97b0a8b42___RS_HL 8077.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "2767ef91-3383-4872-9804-e0bcd2bc43fc___RS_Early.B 7783.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "3c20c90a-788c-4d06-acdb-107f695d901b___RS_LB 4856.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "70ef7eee-0584-44fc-9c5d-95b504554266___RS_Erly.B 7709.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "606e216d-f0b8-4ef3-9bf1-2bee85a13361___RS_Early.B 7094.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "1531dc0c-64d5-49f2-a78a-c7b39882a47a___RS_HL 9727.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "0525ac6e-1d1f-4866-89bd-af4b8ba9c46b___RS_LB 4814.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "5de34904-b1e6-48ef-9daf-73d80f5cc6c3___RS_Early.B 8345.JPG"
+      ],
+      [
+        "apple_healthy",
+        "167f191e-491b-471a-8dc7-ba76315fef0a___RS_HL 7279.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d7fdf2fa-8a55-4ff5-86a2-ca73c5883e93___RS_LB 4665.JPG"
+      ],
+      [
+        "apple_scab",
+        "affb666c-6915-48e6-ba8a-92385af75826___FREC_Scab 3395.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "2f712faf-6cc2-45b8-8dc3-fb81df57a428___RS_NLB 4173.JPG"
+      ],
+      [
+        "apple_scab",
+        "83d10707-6253-4717-8c8a-6ea3ebb1e0e1___FREC_Scab 3138.JPG"
+      ],
+      [
+        "maize_healthy",
+        "193e6262-e589-4f7d-93b8-c707368ee3b0___R.S_HL 8262 copy.jpg"
+      ],
+      [
+        "apple_healthy",
+        "4b8147d5-9bcb-4375-ab29-de19201bc9af___RS_HL 7372.JPG"
+      ],
+      [
+        "maize_healthy",
+        "ac10769f-266b-452e-b8ab-671bd3df69c2___R.S_HL 8344 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "544b5324-f697-4af8-90d4-47b7b86691c6___RS_Early.B 7028.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "a50c5f93-a5db-4eaf-9d82-2e420d2351e7___RS_Early.B 7060.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "0de569a8-21c5-4d22-b9c9-ba0ef0f2b614___RS_HL 0314.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "2419fd79-cda0-4ba4-be14-31c92a2e91dd___RS_Erly.B 8255.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "6f6c7236-d6b5-4bbb-a89e-e1c8246550dd___RS_HL 0559.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "fb61ea12-3f1a-4ea3-911b-d830eeb74717___RS_LB 2914.JPG"
+      ],
+      [
+        "apple_scab",
+        "15bfa086-7d4a-43c0-800d-2fe8255ba50c___FREC_Scab 3150.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "381bb492-a362-4423-8e51-f59050a82d83___RS_NLB 3981.JPG"
+      ],
+      [
+        "apple_scab",
+        "36d99a07-4a43-4416-b204-6886f71d5039___FREC_Scab 3294.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0114f7b3-7f56-4bef-aa47-7a82da142d4b___RS_Erly.B 7437.JPG"
+      ],
+      [
+        "maize_healthy",
+        "d497c6d2-6bfd-4de6-be98-5d3d4ab525fd___R.S_HL 8338 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "dcc9e3a4-04dc-46fd-9bc9-739334aa23d9___RS_Early.B 6799.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "a3bffb58-3110-4063-b2dd-738d38597858___RS_NLB 3961.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "62ba6c10-2e36-48ed-9f8b-f26cd5884666___GHLB2 Leaf 8828.JPG"
+      ],
+      [
+        "maize_healthy",
+        "625ae925-ee23-46fb-a5fb-535b92c248be___R.S_HL 5543 copy.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "8398397b-eae0-4e7b-83ee-44c42c67a79c___RS_HL 0631.JPG"
+      ],
+      [
+        "apple_scab",
+        "7bf25c0a-6594-4777-9a67-49a6487bb203___FREC_Scab 2993.JPG"
+      ],
+      [
+        "potato_healthy",
+        "77c75478-e1f0-4aaa-9cbc-af1fed928a74___RS_HL 1748.JPG"
+      ],
+      [
+        "apple_scab",
+        "4e770559-e332-470e-aae3-c7ad0399dd20___FREC_Scab 3513.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5acc6d4e-6ca5-4a1b-b0bd-7678c6c280f9___GHLB2 Leaf 8709.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "8217ab61-6b5f-4874-8046-d801d40cff3d___RS_Late.B 6089.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "0aacdad5-c9b9-4309-96e3-0797bbed1375___RS_HL 9836.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "44c7f2c3-bec1-4f42-b9b6-946c2b92f50e___RS_Late.B 6261.JPG"
+      ],
+      [
+        "maize_healthy",
+        "94ca39a0-d4df-44c6-b5cc-a38a754506e5___R.S_HL 0601 copy 3.jpg"
+      ],
+      [
+        "tomato_late_blight",
+        "0fd882fa-471d-4bcc-ab2b-efdfaf904bc3___GHLB2 Leaf 8915.JPG"
+      ],
+      [
+        "apple_healthy",
+        "764614d4-c19d-4dac-ba69-e2aced0900aa___RS_HL 7546.JPG"
+      ],
+      [
+        "apple_healthy",
+        "47c9915d-7fb5-4426-a1b8-5928c3b20666___RS_HL 7565.JPG"
+      ],
+      [
+        "apple_healthy",
+        "21b1f887-6f78-4da8-b676-d9e53cb8b24d___RS_HL 6012.JPG"
+      ],
+      [
+        "maize_healthy",
+        "4f27ff1a-29dd-439d-8445-a5b73998da5c___R.S_HL 8044 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "83e334ee-bd8c-4aa5-bb8e-bc64d99bd5e2___RS_Early.B 7329.JPG"
+      ],
+      [
+        "apple_healthy",
+        "05e20036-a134-46c0-a06f-3c5d4768d787___RS_HL 5856.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "7c163fda-ae67-4733-8fe3-f59d8ab20a5a___GHLB2 Leaf 8805.JPG"
+      ],
+      [
+        "apple_healthy",
+        "2b044129-3011-4709-8947-18c1a3bf014d___RS_HL 7919.JPG"
+      ],
+      [
+        "potato_healthy",
+        "b0fe9fe9-52e7-40e4-b4c0-769f1a0c7fb9___RS_HL 4175.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "8243854c-24f1-49e5-b568-819ae3867a8c___RS_Late.B 7143.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "ad8b4ef5-2f8c-4cef-819e-cbe0ec19ae17___RS_NLB 4199.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "4946ed4e-9003-485c-830f-1ef42bf78185___RS_HL 0191.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "5fc48a9b-7aee-4262-adf3-1102e354dd61___RS_NLB 3690.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "d344e6d5-259e-4f1c-a72e-919ae9e13005___RS_Erly.B 6482.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "514c77da-8edc-4ce5-948c-fbab6f3b2d96___RS_HL 0478.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "9e8f1cbd-f128-47f3-b90d-9c8dc1efcb78___RS_Erly.B 7425.JPG"
+      ],
+      [
+        "potato_healthy",
+        "3edf7c3f-73e0-439c-870d-76cfd7c3bc45___RS_HL 1859.JPG"
+      ],
+      [
+        "maize_healthy",
+        "a357846d-9d74-425c-bd00-9f41a36ffc08___R.S_HL 8191 copy 2.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "b20f5280-a83b-46c0-a611-0febe7199789___RS_NLB 4038.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "362f6311-e53a-4c35-80b4-8f865b662bd0___RS_HL 9649.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "cf3d2eeb-aa81-4956-bd18-fa7e10e8ba25___RS_NLB 4085.JPG"
+      ],
+      [
+        "apple_healthy",
+        "3b9d4604-18c3-49a7-8ac3-07386ae370fb___RS_HL 8179.JPG"
+      ],
+      [
+        "maize_healthy",
+        "bb63915e-8282-4c2b-ae08-0f0777ce27b5___R.S_HL 8074 copy 2.jpg"
+      ],
+      [
+        "potato_healthy",
+        "0f4ebc5a-d646-436a-919d-961342997cde___RS_HL 4183.JPG"
+      ],
+      [
+        "apple_scab",
+        "1bcc3b5d-7e00-43fb-983e-95ae271a715b___FREC_Scab 3061.JPG"
+      ],
+      [
+        "potato_healthy",
+        "de9a8669-d437-40f0-aa56-fe2d8276a1e0___RS_HL 1910.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "2f3c483a-b18d-4571-8c00-fb24f166d328___RS_Erly.B 7667.JPG"
+      ],
+      [
+        "apple_scab",
+        "99a971b6-cd13-4ed2-8fc5-0d6769945578___FREC_Scab 3130.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "7e92fb02-314e-4cad-a30d-e478b216bce4___RS_Late.B 6890.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "023fe2d4-6e1d-40ce-99ae-85ba90f436ff___RS_Erly.B 6354.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "33b849d5-ec92-4acb-88e6-530accf22734___RS_LB 4994.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "b24b9d32-857b-45ef-be89-552232fadfb2___RS_Erly.B 7763.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "dd9c3ad3-aa94-4d00-88c8-8e4618e8832e___RS_Early.B 7633.JPG"
+      ],
+      [
+        "apple_healthy",
+        "6935b4ee-4f53-4f11-b2bf-d9e7db6dcaa9___RS_HL 7253.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "8c1960cd-20e2-4a9c-a1ee-9800289b884f___RS_LB 3941.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "2b7c8b0d-d906-4c93-9dc4-554ae46a3ec3___RS_Erly.B 7825.JPG"
+      ],
+      [
+        "apple_scab",
+        "1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531.JPG"
+      ],
+      [
+        "potato_healthy",
+        "bf2bffbb-cd8f-4d36-bd58-847808397c75___RS_HL 1786.JPG"
+      ],
+      [
+        "maize_healthy",
+        "89c03f8d-109b-4e13-87a9-00deb0f7a4a7___R.S_HL 8242 copy.jpg"
+      ],
+      [
+        "potato_early_blight",
+        "12ebe6fe-c8ce-4a00-866f-8776aca75159___RS_Early.B 6873.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "859a134c-51f7-4294-bd1a-78140d775bca___RS_Erly.B 8327.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "80c0ed57-74c8-4e02-9cd4-5c29ae099594___RS_Erly.B 6447.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "3c3a9c2c-3387-4666-9f42-4d14142e9500___RS_Early.B 8499.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "18fa8f7f-ef94-4a3b-9c79-5f4362323134___RS_HL 9977.JPG"
+      ],
+      [
+        "apple_healthy",
+        "48ff38b5-5af1-44e5-9d94-ee9a32715aba___RS_HL 6109.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "7e4224e3-dd76-4041-8fe2-c9abf67d3a98___RS_Late.B 6630.JPG"
+      ],
+      [
+        "potato_healthy",
+        "22322780-95b4-4b45-b626-26b22965d55e___RS_HL 1880.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "75894286-9ce2-448e-8148-0f7fc3442689___GHLB Leaf 2.2 Day 12.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "933b7a1c-5015-48df-8c2d-b7fdf918a4db___GH_HL Leaf 490.1.JPG"
+      ],
+      [
+        "potato_healthy",
+        "f0fdde26-78b4-46f0-9eb8-7c2a743d34aa___RS_HL 4165.JPG"
+      ],
+      [
+        "maize_healthy",
+        "8d87d0de-3d92-4927-8c76-c8873c58f24d___R.S_HL 8047 copy 2.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "cacbfac0-f563-452c-b506-1ce7bd06d680___RS_Erly.B 9379.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "c4263e49-60ed-4f6b-aa78-cc9f3117ce73___RS_LB 4100.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d9817cc3-ef03-41e5-8892-1fddd27b7bcc___RS_LB 4878.JPG"
+      ],
+      [
+        "potato_healthy",
+        "413bc2e9-eb2a-48fd-ba65-48b5121fd85c___RS_HL 4200.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "4ed59995-6214-4996-b98b-750e85433920___GH_HL Leaf 474.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "94c9fcc4-a643-4a7e-b56e-5a952bb7c791___RS_NLB 3999.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "49f13f57-6881-4caa-839b-d93215ce1b77___RS_Early.B 7009.JPG"
+      ],
+      [
+        "apple_healthy",
+        "189c5270-4ba6-4c14-bfb2-3a7dd4d3e7aa___RS_HL 5984.JPG"
+      ],
+      [
+        "potato_healthy",
+        "14484ea5-9c34-427c-abe4-2743265aced0___RS_HL 4204.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "192c9d29-4a86-457b-a779-1dd36f225a5b___RS_Early.B 8012.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "ff03a125-445b-40e1-a7ed-0bb9b155dfd8___RS_LB 5039.JPG"
+      ],
+      [
+        "apple_healthy",
+        "14c691eb-78de-417f-8832-93427151a6e1___RS_HL 8090.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "5b28f6a8-cf40-4f35-82ad-16470dd69bd5___RS_HL 9658.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "1c057b5e-9ad7-4d51-b407-c60637005a13___RS_Erly.B 7594.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "835e6cde-b1e2-48e6-b616-e0a4ca05b127___RS_Early.B 7143.JPG"
+      ],
+      [
+        "potato_healthy",
+        "b89db9d3-a413-4781-bc88-5f6c2085ab5f___RS_HL 1909.JPG"
+      ],
+      [
+        "maize_healthy",
+        "5bed19a9-9318-4160-926f-c2c641995c1e___R.S_HL 8167 copy 2.jpg"
+      ],
+      [
+        "apple_healthy",
+        "44d0b31c-72e0-4a8f-9c3b-64051dab5d2e___RS_HL 7856.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "126e12d3-3d51-4ba6-861f-e6ed09ee951f___GHLB2 Leaf 9021.JPG"
+      ],
+      [
+        "potato_healthy",
+        "415ac4a2-8f16-4052-880e-1e1f208965f0___RS_HL 1884.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "d71490c0-7315-4301-b9cd-19de9357a2f7___RS_LB 3203.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "65b66b8f-2117-4876-85bd-23941349231f___RS_Early.B 7219.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "7ea05f87-83d3-405e-84ee-f637426f4bab___RS_Early.B 6715.JPG"
+      ],
+      [
+        "potato_healthy",
+        "38faf81d-c83b-42ca-b4c3-e3bbfa070589___RS_HL 1805.JPG"
+      ],
+      [
+        "apple_healthy",
+        "5a92a89d-a10e-423c-aed8-8505e04e15dc___RS_HL 7836.JPG"
+      ],
+      [
+        "maize_healthy",
+        "d4ec84d5-69d6-45e9-a846-c8976446d31a___R.S_HL 7906 copy.jpg"
+      ],
+      [
+        "tomato_healthy",
+        "45fc3f1c-6ccc-4ffd-a0a9-f53cbe4e71a1___GH_HL Leaf 206.1.JPG"
+      ],
+      [
+        "apple_scab",
+        "53035d10-9f2b-4c90-ab75-dfde2a9af82f___FREC_Scab 2915.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "7c879fc2-09b8-47ab-af57-2508cc854861___GH_HL Leaf 380.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "1769d41b-fd4c-49b1-adce-e89fee6a352e___RS_Early.B 6741.JPG"
+      ],
+      [
+        "maize_healthy",
+        "5fd226ef-ae5a-45e8-bacc-c34f6d9aa94f___R.S_HL 8327 copy 2.jpg"
+      ],
+      [
+        "apple_scab",
+        "2a97b29d-8a63-47ab-bd5b-c14832a586c8___FREC_Scab 3242.JPG"
+      ],
+      [
+        "apple_scab",
+        "ea693d65-bcc9-4e76-9d64-cba561b520cc___FREC_Scab 3345.JPG"
+      ],
+      [
+        "apple_healthy",
+        "70e5bc17-eaff-43e3-b198-2658561b63b1___RS_HL 5866.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "7e486917-7f31-4a26-b0ca-6175ebc2beee___RS_LB 4113.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "40ca043f-ee3d-4327-95ee-09d7b41ebfc4___RS_NLB 3890.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "48ed1384-b3c5-464d-bdc8-97b347d89a58___RS_Early.B 6744.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "f9e08c76-e2fe-4498-9f90-0b47ffac0e62___RS_NLB 3820.JPG"
+      ],
+      [
+        "maize_healthy",
+        "55ea99a3-17b3-4971-8159-0fa4e369c0d7___R.S_HL 8219 copy 2.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "952a1717-81d6-482d-b13b-3897a420fd47___RS_NLB 3994.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "0f809e80-ee2b-4ad4-9a80-50d789298d48___GH_HL Leaf 192.JPG"
+      ],
+      [
+        "apple_healthy",
+        "7b0dc46f-4bfd-4329-85a3-06db12434d3a___RS_HL 7603.JPG"
+      ],
+      [
+        "potato_healthy",
+        "1106c3fc-92cb-41a6-a6c6-8f08b9b45108___RS_HL 1914.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "79dc5a4e-60d1-4185-add7-0abca4a2205e___RS_NLB 3549.JPG"
+      ],
+      [
+        "maize_healthy",
+        "814ab6c3-0b7d-42ab-8058-53cde59f0daf___R.S_HL 8312 copy 2.jpg"
+      ],
+      [
+        "tomato_early_blight",
+        "7e236dc3-40e2-4ff9-8356-4fb7a3fcc0ff___RS_Erly.B 6426.JPG"
+      ],
+      [
+        "potato_healthy",
+        "142fb983-2166-4a0f-b99b-a6c21e99987e___RS_HL 5398.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "de282779-9d54-4b8f-8292-e06c3e020e16___RS_LB 3971.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "7d8cbbfc-89e2-4fe5-9624-89b353d78832___RS_Late.B 5176.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "3dbb0f53-7541-4b25-b7ef-797800e2b1b7___RS_Late.B 7135.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "69ba838d-6ea2-4845-8d69-53d9a437d56e___RS_NLB 4171.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "074bc781-f586-46b0-bef5-0237e3bf5043___RS_Erly.B 8375.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "b7ec2193-2a49-43b9-9962-7a13d472e668___RS_NLB 4044.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "6c4da977-110b-4191-abfa-faa22ccc7dc7___RS_HL 9848.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "235cb141-61ea-48ef-b556-4ea7453d5ca3___RS_NLB 3731.JPG"
+      ],
+      [
+        "potato_healthy",
+        "a8d687be-3777-403f-bae7-5c8c19340b3f___RS_HL 1738.JPG"
+      ],
+      [
+        "potato_healthy",
+        "07dfb451-4378-49d1-b699-33a5fc49ff07___RS_HL 5399.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "7f58b2c9-3a62-402f-80d8-4a9aef9203ea___GH_HL Leaf 411.1.JPG"
+      ],
+      [
+        "apple_scab",
+        "ed3fa713-5de5-4298-96c1-9cf5bb830078___FREC_Scab 3105.JPG"
+      ]
+    ]
+  },
+  "val": {
+    "classes": [
+      "apple_healthy",
+      "apple_scab",
+      "maize_healthy",
+      "maize_leaf_blight",
+      "potato_early_blight",
+      "potato_healthy",
+      "potato_late_blight",
+      "tomato_early_blight",
+      "tomato_healthy",
+      "tomato_late_blight"
+    ],
+    "rows": [
+      [
+        "apple_healthy",
+        "8fba2297-e4e5-4fab-b41d-d5cb537dc840___RS_HL 6220.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0a553fc0-fc2c-4598-baba-3bc10191447c___RS_HL 5969.JPG"
+      ],
+      [
+        "apple_healthy",
+        "4221a70d-e5ef-44c7-843f-098a1fe0bfe3___RS_HL 8085.JPG"
+      ],
+      [
+        "apple_healthy",
+        "55e058db-7a66-4468-b6f8-a2e3fd4d567d___RS_HL 8128.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0ca762d0-3853-4018-896e-8f01e29cb144___RS_HL 7558.JPG"
+      ],
+      [
+        "apple_healthy",
+        "51e68778-c3ba-423c-8fb8-bc5d1c20645a___RS_HL 7302.JPG"
+      ],
+      [
+        "apple_healthy",
+        "79d597cf-e046-4b0e-b489-a9d24b3a8f8e___RS_HL 8014.JPG"
+      ],
+      [
+        "apple_healthy",
+        "68dd3ff0-d8d5-49a7-8813-46293114d967___RS_HL 7990.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0d072074-0253-4a6b-a4cb-02f520c46942___RS_HL 5805.JPG"
+      ],
+      [
+        "apple_scab",
+        "6105e3bd-339c-47bd-9764-4ba9b7059a6b___FREC_Scab 3096.JPG"
+      ],
+      [
+        "apple_scab",
+        "1a41bab0-45e0-4dda-a798-9bf4a998f1b6___FREC_Scab 3450.JPG"
+      ],
+      [
+        "apple_scab",
+        "dbf6dab4-0765-454c-8cb9-6b4329bca971___FREC_Scab 3225.JPG"
+      ],
+      [
+        "apple_scab",
+        "1a4047d7-23d6-4bba-ba10-b6e7005ea01b___FREC_Scab 3193.JPG"
+      ],
+      [
+        "apple_scab",
+        "3f65aa69-06c9-423f-ac7a-e2ab6edf63ca___FREC_Scab 3360.JPG"
+      ],
+      [
+        "apple_scab",
+        "2bc50b52-0d7d-41a3-be8a-8d070341d87f___FREC_Scab 3476.JPG"
+      ],
+      [
+        "apple_scab",
+        "bbab7c92-4287-4e69-82b0-5c37fea5897c___FREC_Scab 3017.JPG"
+      ],
+      [
+        "apple_scab",
+        "154842bb-6ee3-4176-9007-cf7a43cfe140___FREC_Scab 3434.JPG"
+      ],
+      [
+        "apple_scab",
+        "1a304331-98b5-473f-bbb1-c33b8441052a___FREC_Scab 3296.JPG"
+      ],
+      [
+        "maize_healthy",
+        "169f4815-9403-4002-b463-b578b3cf4323___R.S_HL 7929 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "15e8fdce-816e-4a57-ae54-10ba5638fb0a___R.S_HL 0618 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "0c039121-6d23-423a-9df3-f86b3ee035da___R.S_HL 8082 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "0f6d1e23-9ac3-4d2d-bd32-9b0cb91bf4e3___R.S_HL 0625 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "6747992a-6f4b-4ecc-bc4e-69a6fa3f71da___R.S_HL 5492 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "6e0ab8d1-e0f8-4e5d-bf51-72232be658e2___R.S_HL 5491 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "16123a33-12e5-414e-9ae0-695b86e6cb3a___R.S_HL 8136 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "254d1f23-8a22-4f21-9d5e-0c66733f102f___R.S_HL 8083 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "5558853b-3853-4ef2-9824-a73060db0b30___R.S_HL 0631 copy 3.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "28b85992-4e5f-4330-aea3-94c6fb9ed845___RS_NLB 3701.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "81b33e60-d234-4e3a-90d7-900927e74d7f___RS_NLB 4166.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "14c0cb10-f1bc-49d5-b03e-65a81805140c___RS_NLB 3826.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "fed381d0-4407-4ec5-a178-d70ec1ca93d3___RS_NLB 3914.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "bf03fb8c-faeb-46e5-afe9-227289738dc4___RS_NLB 3749.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "c820ac4f-54d2-4046-bb70-b53fa649f648___RS_NLB 3680.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "1f36d729-d193-4824-a159-a6085f2b7159___RS_NLB 3741.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "845ece89-ec44-4727-b5f4-8df8407b6fea___RS_NLB 4039 copy.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "e63578a0-74d4-4634-b377-aaaf3c135324___RS_NLB 4200.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "ba96aab6-adb5-4021-b6ad-3305f50aec12___RS_Early.B 7317.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "5caecfc6-8e1d-401b-8014-763dec01cb98___RS_Early.B 8063.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "62e81304-8d1b-46ed-a79a-52cf53a63919___RS_Early.B 7363.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "adc573cd-bbf3-4742-9bd5-1e3e6f27319a___RS_Early.B 8685.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "c777a0ce-5d2b-4e87-8cc4-d5f8847a4553___RS_Early.B 8239.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "1cb05d87-027d-4bf0-b5c4-4c1a57896ac6___RS_Early.B 7936.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "2b8cfa81-e20f-4c28-b403-2cec2e5c0f2a___RS_Early.B 8145.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "62490062-4c67-4caf-bec5-df1342ec2987___RS_Early.B 7946.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "e09798e4-23b1-4485-873b-605bc350f327___RS_Early.B 7320.JPG"
+      ],
+      [
+        "potato_healthy",
+        "5a3fc4bb-a78c-4276-8934-f0b037ffb860___RS_HL 5412.JPG"
+      ],
+      [
+        "potato_healthy",
+        "9c620128-2872-4bbb-bc14-d5b785242cf6___RS_HL 1751.JPG"
+      ],
+      [
+        "potato_healthy",
+        "61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL 1966.JPG"
+      ],
+      [
+        "potato_healthy",
+        "046641c1-f837-49eb-b5f2-4109910a027c___RS_HL 1878.JPG"
+      ],
+      [
+        "potato_healthy",
+        "163ada72-4288-4f85-a3c1-feed23c8d1de___RS_HL 1940.JPG"
+      ],
+      [
+        "potato_healthy",
+        "23f1ab77-d664-49c4-92eb-41eb66c6d101___RS_HL 4169.JPG"
+      ],
+      [
+        "potato_healthy",
+        "144d2475-21ab-4bdc-a67c-9672a9b711e6___RS_HL 5376.JPG"
+      ],
+      [
+        "potato_healthy",
+        "111cd9d8-4d27-4225-be9e-d29b21cf56b9___RS_HL 5419.JPG"
+      ],
+      [
+        "potato_healthy",
+        "533abd3a-3e1d-42d0-ae9c-5189282b78af___RS_HL 5369.JPG"
+      ],
+      [
+        "potato_healthy",
+        "923d4cc3-021a-4bcd-9f5f-1d6f69e4ad33___RS_HL 1888.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "84e85005-c647-4381-8762-c487074c9571___RS_LB 5186.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "38d82b6e-16ec-4ac6-b42f-29ff524b4e43___RS_LB 5269.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "5b12fde1-fe3a-49fe-8430-479775018322___RS_LB 3071.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "7774658c-0dcb-4b7c-a1fa-573de03373dd___RS_LB 3135.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "4a34ce1c-9fde-4707-947a-58432a695741___RS_LB 3277.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "eb2bd15b-a92b-4302-98a1-bbc13a0f95bb___RS_LB 2671.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "6e9fc91a-e20f-4431-bc54-8492d7ec788e___RS_LB 4527.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "3456a2d1-59d1-4111-9cc8-16a6b12e973e___RS_LB 5249.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "573c1cb5-fb43-4b19-886d-638a87bc134b___RS_LB 4007.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0f7a2408-9c26-4ff9-bee5-2bfcd91a11f7___RS_Erly.B 9440.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "87725f1b-be8c-42b8-8eed-671b0c52276d___RS_Erly.B 7431.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0bed4d68-b82c-4e96-bbfe-e0fc10df01aa___RS_Erly.B 8301.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "257ffdcb-bd8b-4d18-98cc-e63a118155ea___RS_Erly.B 9520.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "cab96269-77a2-47cd-bfdf-02ad2535293d___RS_Erly.B 8439.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "9eec6625-b337-403b-b93c-e809f4e0b8c4___RS_Erly.B 7681.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "29645def-a571-4442-8f95-d7ebf71befde___RS_Erly.B 7751.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "eb807a4d-9d14-49a0-af1f-1e26b093edff___RS_Erly.B 7409.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "004cbe60-8ff9-4965-92df-e86694d5e9ba___RS_Erly.B 8253.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "01f87f04-ff38-4aba-b7d1-587aa06e5282___RS_Erly.B 7851.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "883b7c13-7aef-4ae9-bd70-065a16226e9d___GH_HL Leaf 170.1.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "9c84597a-72a3-4e91-9203-92de6090462b___RS_HL 0040.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "2b1cbc53-a62b-4daf-b233-8fc1d8d8c099___RS_HL 0296.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "1fa569d8-45ba-4633-b66d-3fdb07ed523e___RS_HL 0533.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "5104e988-bef6-45fe-9677-095a045239ad___GH_HL Leaf 449.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "3b0677fb-ff25-4871-aa89-37f756e917af___GH_HL Leaf 253.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "13688c77-f2ad-4f7c-972c-99d70652fac6___RS_HL 0458.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "4777e41f-56f7-4f8f-9c81-33bd40ca1d0b___RS_HL 9875.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "982bdd12-cce3-413e-89ae-444ebc3ee32e___RS_HL 0487.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "20593434-37e3-490e-b619-cdb3d6515517___GHLB2 Leaf 8688.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "349b160d-6a6a-4b94-bdd3-81b670d13996___GHLB2 Leaf 72.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "6dbfb834-5654-4526-8014-2b33ef976892___RS_Late.B 6172.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "22a34aab-076c-4e49-a584-9377c07b45aa___RS_Late.B 4866.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "804affe6-213e-4bcc-8736-e5034a31e454___GHLB2 Leaf 8659.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "382cc2c9-3ac9-444d-9638-72ab527ac1b9___RS_Late.B 6711.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5ee4e525-31bd-415c-9f64-30746c2434d7___RS_Late.B 4883.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "5f866129-ebbd-413b-aa6e-cf149be553e7___RS_Late.B 5390.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "80fc88e3-e4b6-49be-9f10-a364dbf88767___GHLB2ES Leaf 137.jpg"
+      ]
+    ]
+  },
+  "test": {
+    "classes": [
+      "apple_healthy",
+      "apple_scab",
+      "maize_healthy",
+      "maize_leaf_blight",
+      "potato_early_blight",
+      "potato_healthy",
+      "potato_late_blight",
+      "tomato_early_blight",
+      "tomato_healthy",
+      "tomato_late_blight"
+    ],
+    "rows": [
+      [
+        "apple_healthy",
+        "8742bc93-09b4-4aa7-9a75-ec592ba27c57___RS_HL 7587.JPG"
+      ],
+      [
+        "apple_healthy",
+        "11dc8fb3-42f9-4d14-9e20-3252e18eb802___RS_HL 6278.JPG"
+      ],
+      [
+        "apple_healthy",
+        "23a80c76-8642-4e07-b157-b73eff76c44e___RS_HL 5906.JPG"
+      ],
+      [
+        "apple_healthy",
+        "2710a9e1-5834-4606-9e2c-477c0415882e___RS_HL 7564.JPG"
+      ],
+      [
+        "apple_healthy",
+        "288e87b5-654d-434e-a5bc-3f8adaff8cc5___RS_HL 5714.JPG"
+      ],
+      [
+        "apple_healthy",
+        "715ddd59-a49f-42e1-8eed-2c3dd29677fd___RS_HL 5832.JPG"
+      ],
+      [
+        "apple_healthy",
+        "09ad370f-ca6e-48fc-9b4b-990b0d9f6cd3___RS_HL 8135.JPG"
+      ],
+      [
+        "apple_healthy",
+        "0eacfbb6-3d68-4a89-b8f8-6b2d328102af___RS_HL 7961.JPG"
+      ],
+      [
+        "apple_healthy",
+        "62d3964c-3cc9-495c-94d5-0558f5fe3063___RS_HL 7607.JPG"
+      ],
+      [
+        "apple_scab",
+        "cf1d9afc-3473-4c97-ae0b-6f2352d9d595___FREC_Scab 3457.JPG"
+      ],
+      [
+        "apple_scab",
+        "276ed34e-9987-4b38-b83b-8626504fc204___FREC_Scab 3050.JPG"
+      ],
+      [
+        "apple_scab",
+        "a8037811-6ce4-4611-ace1-1b6492374135___FREC_Scab 3126.JPG"
+      ],
+      [
+        "apple_scab",
+        "5cd3df15-31a2-4076-9d1a-8735fa1dccdf___FREC_Scab 3410.JPG"
+      ],
+      [
+        "apple_scab",
+        "ef359032-085f-44ba-a63d-493a1724eca4___FREC_Scab 3202.JPG"
+      ],
+      [
+        "apple_scab",
+        "f0d56524-1296-4a54-bafa-9b620baf9f1d___FREC_Scab 2942.JPG"
+      ],
+      [
+        "apple_scab",
+        "b0744c40-7396-4efb-9d0e-d7b1f22a9dd4___FREC_Scab 3407.JPG"
+      ],
+      [
+        "apple_scab",
+        "b18d07ee-d2e2-4cc2-876c-e03e3839f3b6___FREC_Scab 3427.JPG"
+      ],
+      [
+        "apple_scab",
+        "ed1d17cd-a5c2-4b10-996f-53f316df30b7___FREC_Scab 3456.JPG"
+      ],
+      [
+        "maize_healthy",
+        "57414792-9bc5-40c2-b7cb-b764a2531225___R.S_HL 8152 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "bea3239f-b794-42ee-bc3b-249fa2a53669___R.S_HL 8100 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "57e69775-d8c7-4701-9f93-f88dfa27e7f2___R.S_HL 8190 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "7c1d9131-4e97-4e81-97e6-496bab9d9134___R.S_HL 8093 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "d5048e5d-a5d4-435c-bac2-7e56d622f4fd___R.S_HL 8205 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "2b1995cb-c5d5-47e7-b0cd-0ec7fa9c2996___R.S_HL 8001 copy.jpg"
+      ],
+      [
+        "maize_healthy",
+        "74b73acb-62f4-435b-bc40-295d4fc117ad___R.S_HL 8292 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "7a326001-2b9c-4a22-a7d6-53b91e7d79f9___R.S_HL 8192 copy 2.jpg"
+      ],
+      [
+        "maize_healthy",
+        "993fce59-927c-405d-9761-784d15d8c799___R.S_HL 8064 copy 2.jpg"
+      ],
+      [
+        "maize_leaf_blight",
+        "14576526-37d0-49cb-a775-fc9b4504127e___RS_NLB 4267.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "3c423b70-c265-47ab-9aad-9f5235ccd343___RS_NLB 3819.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "4d439804-01e9-4f5a-bfec-1ef99c882369___RS_NLB 3945.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "da98944f-f66b-4734-9d09-58dbb072eb85___RS_NLB 4033.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "e8fe9001-df63-40de-bc41-fc250863a705___RS_NLB 4205.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "60fb1e70-5368-4b1f-ab46-12c5add010e6___RS_NLB 3839.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "248e2b4f-4a50-460a-8ef4-cc8fe3c8bd12___RS_NLB 3872.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "0569f31d-50e6-479a-bd60-4e3282c152e4___RS_NLB 3599.JPG"
+      ],
+      [
+        "maize_leaf_blight",
+        "7925918d-440d-4a55-92c1-6d912f119994___RS_NLB 4665.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "da412bf6-6bee-4dfb-8bc7-b6e9f80971ff___RS_Early.B 6808.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "37da60b5-9c33-4fe7-95d4-3a2db2a7702b___RS_Early.B 8359.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "82611670-959a-401b-8ed0-4b4fdad5679e___RS_Early.B 8003.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "ef5b06f0-4c81-4e47-9ec3-499af1571d9e___RS_Early.B 8455.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "8c3d0f9e-3a77-4ec2-a9ad-d996caa2c562___RS_Early.B 6887.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "c5c57ff6-cff1-4be6-a2fd-324efc139881___RS_Early.B 7450.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "20e451e3-74a4-4a5b-b11c-257506f13a8f___RS_Early.B 6984.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "848336c4-eaad-47e7-8458-5e80d5520d05___RS_Early.B 7729.JPG"
+      ],
+      [
+        "potato_early_blight",
+        "2c5500a4-cfa4-4b46-8db4-443b995d39dd___RS_Early.B 8768.JPG"
+      ],
+      [
+        "potato_healthy",
+        "875d6ded-5f01-495c-a945-ad2e17f87f91___RS_HL 1848.JPG"
+      ],
+      [
+        "potato_healthy",
+        "5fcbde8f-52af-4963-b324-ff7f4dd6bd4c___RS_HL 1762.JPG"
+      ],
+      [
+        "potato_healthy",
+        "a4d1d8cb-26a2-413f-a229-021e2eea87ac___RS_HL 1819.JPG"
+      ],
+      [
+        "potato_healthy",
+        "9a6eb7c4-6b43-477a-89e0-69f62ef67991___RS_HL 1846.JPG"
+      ],
+      [
+        "potato_healthy",
+        "907f26b7-a14f-463f-a41e-f35d6e0f1417___RS_HL 1757.JPG"
+      ],
+      [
+        "potato_healthy",
+        "414f6249-9f78-4af5-9593-9d5a7e7d979f___RS_HL 1918.JPG"
+      ],
+      [
+        "potato_healthy",
+        "61b05f0a-14bc-4c8f-a256-57c8b8898d8c___RS_HL 1769.JPG"
+      ],
+      [
+        "potato_healthy",
+        "c3caa84b-6078-4489-80ac-919d92d25ff7___RS_HL 1772.JPG"
+      ],
+      [
+        "potato_healthy",
+        "57e24d88-fd01-4422-b8b5-d688d2296184___RS_HL 5401.JPG"
+      ],
+      [
+        "potato_healthy",
+        "a1abff90-34e5-464d-b4d3-0c09f5924900___RS_HL 5414.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "919150bd-372b-44e0-a70e-a13e60dccbce___RS_LB 3263.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "3f624c56-6bd1-4e7e-8fcd-d6b4480abe12___RS_LB 5215.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "a5a6ebeb-2535-441d-acf5-33bce305fa14___RS_LB 3304.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "1cd053f6-0016-4680-a924-af15aecd7fb2___RS_LB 4414.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "3362decd-b0d5-4cc6-81f8-3c051a285875___RS_LB 4109.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "a8f16f61-a090-4b29-9569-5e7d0e17fda5___RS_LB 4460.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "b9474ec5-5a67-4207-98ec-5671c19f8f59___RS_LB 2545.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "87681326-2843-4e63-9042-602b08a98a66___RS_LB 4145.JPG"
+      ],
+      [
+        "potato_late_blight",
+        "00695906-210d-4a9d-822e-986a17384115___RS_LB 4026.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "3b1caf5d-9b90-4adc-bde6-8a16af479f0a___RS_Erly.B 8270.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "efe14014-c5b8-433b-a469-e10ca8d7c551___RS_Erly.B 7499.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "7a255c73-1a41-47f8-8705-dee13a9a5827___RS_Erly.B 9399.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "801083ae-26f9-4a9a-9e9a-f73fb18b67e5___RS_Erly.B 7363.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "90915bb5-9440-43dd-85c1-5d30865054d5___RS_Erly.B 7493.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "00e7c4b2-3005-4558-9cfa-235e356cb7a8___RS_Erly.B 7844.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "21ffaf6b-7ad0-45bf-bd7e-7d697413ebbd___RS_Erly.B 9500.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0208ed52-1b28-4c9c-88e3-4667581e1109___RS_Erly.B 7829.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0f065614-a53a-4c83-9d29-5d3e4ab5b41d___RS_Erly.B 7676.JPG"
+      ],
+      [
+        "tomato_early_blight",
+        "0034a551-9512-44e5-ba6c-827f85ecc688___RS_Erly.B 9432.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "93807606-0aed-435b-adb2-cf303a7d586e___RS_HL 0135.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "32de8c50-e831-456a-b46b-352a58c129cc___RS_HL 0007.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "839daf12-8d8b-478e-b214-2d5dd0fa509a___GH_HL Leaf 445.1.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "7864a688-3ee0-4ddc-83e8-6edb177dd6bf___GH_HL Leaf 193.1.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "37aad83b-7ff8-4b35-b3ed-fb8e0f54910b___GH_HL Leaf 342.1.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "416458ca-7db6-4383-ae0b-21ae2860af1b___RS_HL 0535.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "54bb7e75-5b69-4777-ad28-6a676e5fd46d___RS_HL 9631.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "125ff07a-87f1-4953-9ded-8f9e5adb7b1b___RS_HL 0470.JPG"
+      ],
+      [
+        "tomato_healthy",
+        "07776423-f0af-455c-a7c1-36215c7e7097___RS_HL 0321.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "4780302b-3329-4f1f-a697-67698af1d261___RS_Late.B 6319.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "2edc83c5-b45e-4f4e-ba56-1ff26c33abea___RS_Late.B 5614.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "10bdda57-bfe5-4403-a4c6-a1211d4f348e___GHLB_PS Leaf 20 Day 8.jpg"
+      ],
+      [
+        "tomato_late_blight",
+        "673d1b55-7e61-4a3c-9d2d-edc4307f7a42___GHLB2 Leaf 121.1.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "1aa88c5b-384f-43cf-8046-0d32d26a1133___GHLB Leaf 24 Day 12.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "76b25fb0-e2fa-47ef-9b70-19efa3d65a9a___GHLB Leaf 1.4 Day 12.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "869168d7-a45c-40e6-888b-ad5ba94a657e___RS_Late.B 6193.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "8275c408-1ce2-4b4b-a6de-b7a0b373ad05___GHLB2 Leaf 8741.JPG"
+      ],
+      [
+        "tomato_late_blight",
+        "7d9f4bd8-6a41-4c5e-816e-175f88e0be41___RS_Late.B 5488.JPG"
+      ]
+    ]
+  }
+}

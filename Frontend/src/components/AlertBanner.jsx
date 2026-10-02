@@ -1,12 +1,15 @@
-import { AlertTriangle } from 'lucide-react'
-import { HUMIDITY_ALERT } from '../lib/mockData'
+import { AlertTriangle } from "lucide-react"
 
 /**
- * 4. Proactive disease-risk alert rendered right below the weather
- * widget. Uses an amber/earth tone so it is clearly distinguishable
- * from success-oriented greens elsewhere in the app.
+ * Proactive disease-risk alert driven by real humidity context.
+ *
+ * @param {{ humidity: number|null }} props
  */
-export default function AlertBanner() {
+export default function AlertBanner({ humidity }) {
+  const risky = humidity != null && humidity >= 75
+
+  if (!risky && humidity != null) return null
+
   return (
     <section
       role="alert"
@@ -18,7 +21,11 @@ export default function AlertBanner() {
       </span>
       <div className="leading-snug">
         <p className="text-sm font-bold text-amber-900">Alert: High humidity detected.</p>
-        <p className="mt-0.5 text-xs text-amber-800">{HUMIDITY_ALERT}</p>
+        <p className="mt-0.5 text-xs text-amber-800">
+          {humidity == null
+            ? "Apply local weather context once available."
+            : "High humidity creates optimal conditions for fungal spread. Consider preventative measures."}
+        </p>
       </div>
     </section>
   )
